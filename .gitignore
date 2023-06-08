@@ -77,3 +77,4 @@ Build/*/**
 *.log
 
 **/Windows/*
+**.7z
